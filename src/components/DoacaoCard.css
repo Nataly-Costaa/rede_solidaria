@@ -1,0 +1,38 @@
+.doacao-card {
+  transition: border-color var(--transition), transform var(--transition);
+}
+.doacao-card:hover {
+  border-color: var(--border-light);
+  transform: translateY(-2px);
+}
+.doacao-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+  gap: 1rem;
+}
+.doacao-item-nome {
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--text);
+  margin-bottom: 0.2rem;
+}
+.doacao-ponto-nome {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+.doacao-stats {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.7rem;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+.pct-label {
+  font-family: var(--font-head);
+  font-weight: 700;
+  color: var(--text);
+  font-size: 0.9rem;
+}
