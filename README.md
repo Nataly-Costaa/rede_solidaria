@@ -8,8 +8,9 @@
 
 | Ambiente | URL |
 |---|---|
-| 🌐 Frontend (deploy) | `_em breve_` |
-| ⚙️ Backend / API (deploy) | `_em breve_` |
+| 🌐 Frontend (deploy) | **[Rede Solidaria](https://rede-solidaria-three.vercel.app/)** |
+| ⚙️ Backend / API (deploy) | **[Api Rede Solidaria](https://api-rede-solidaria.onrender.com/)** |
+| 🖥️ Repositório da API | **[Repositório API](https://github.com/Nataly-Costaa/api_rede_solidaria)** |
 
 ---
 
